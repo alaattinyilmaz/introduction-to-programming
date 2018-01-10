@@ -1,0 +1,33 @@
+Monopoly; 1; Hasbro; 105
+Stone Age; 2; Hans im Gluck; 52
+Risk; 3; Hasbro; 21
+The Settlers of Catan; 4; Kosmos; 48
+Monopoly; 3; Hasbro; 61
+Carcassonne; 7; Hans im Gluck; 159
+The Settlers of Catan; 2; Kosmos; 88
+Cluedo; 2; Hasbro; 36
+Stone Age; 4; Hans im Gluck; 66
+Dominion; 5; Hans im Gluck; 50
+Barbarossa; 10; Kosmos; 46
+The Settlers of Catan; 4; Kosmos; 42
+Pictionary; 6; Hasbro; 68
+Monopoly; 2; Hasbro; 25
+Jenga; 4; Hasbro; 40
+Dominion; 2; Hans im Gluck; 30
+Scrabble; 9; Hasbro; 100
+Barbarossa; 5; Kosmos; 25
+Pictionary; 7; Hasbro; 17
+Barbarossa; 3; Kosmos; 32
+The Settlers of Catan; 6; Kosmos; 55
+Stone Age; 11; Hans im Gluck; 63
+Monopoly; 10; Hasbro; 42
+Jenga; 9; Hasbro; 56
+Carcassonne; 4; Hans im Gluck; 49
+Carcassonne; 5; Hans im Gluck; 52
+Stone Age; 11; Hans im Gluck; 21
+Pictionary; 6; Hasbro; 27
+Jenga; 12; Hasbro; 16
+Scrabble; 8; Hasbro; 12
+Barbarossa; 11; Kosmos; 9
+Cluedo; 1; Hasbro; 16
+Dominion; 12; Hans im Gluck; 20

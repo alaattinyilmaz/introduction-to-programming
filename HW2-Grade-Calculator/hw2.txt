@@ -1,0 +1,88 @@
+inputs 
+Student name,
+midterm grades, 
+final grade 
+average of the homework grades
+
+The program starts with displaying a welcome message that explains your program. 
+Next phase is
+input entry for two separate students. 
+
+RULES
+
+0 <= exam grades <= 100 integers
+
+-100 <= homework average <= 100 ? - must be real number
+
+20 =< final  -otherwise F 
+
+MT1(25%), MT2(25%), F(35%), HW(15%) { (mt1 + mt2) * 0.25 + f * 0.35 + hw * 0.15 } 
+
+35 =< exam average  -otherwise F { ((mt1 + mt2) * 0.25 + f * 0.35) / 0.85 }
+
+Homeaverage > 2 * examaverage -gradelower a letter grade { HW_average > 2 * Exam_Average }
+
+
+Letter Points
+A >90
+A- >85
+B+ >80
+B >75
+B- >70
+C+ >60
+C >55
+C- >50
+D+ >45
+D >40
+
+
+Functions
+
+function1 
+{
+to prompt for the inputs  from user, calls function2 with inputted parameters
+}
+
+
+function2
+{
+takes parameters, checks input. If there is no mistake calls function3 
+
+OTHERWISE 
+Gives error messages
+else if (1. Exams can be [0,100] 2. Homework average grade can be [-100,100])
+}
+
+
+function3
+{
+this function takes all the valid inputs and check rule 3,4,6,7
+3. Your midterm grades must add up to 40 (mt1+mt2) to pass the course, otherwise the letter
+grade will be F.
+4. Your final grade must be at least 20 to pass the course, otherwise the letter grade will be F.
+5. The distribution is: MT1(25%), MT2(25%), F(35%), HW(15%)
+6. The exam average must be at least 35 to pass the course, otherwise the letter grade will be F.
+7. If homework average is larger than the double of the exam average, then the grade will be
+lowered by a letter grade
+
+It will also calculate the total points (Rule 5)
+
+after calculations it calls Function4
+}
+
+
+function4
+{
+calculates letter grade by looking at total point. So, you have to
+pass some of the variables from Function3 to Function4.
+}
+
+
+main function
+{
+Displays welcome message
+Moreover, you will call Function1 from main twice for the two different students.
+
+}
+
+get.char(); falan dikkat et
